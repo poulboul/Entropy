@@ -1,0 +1,6 @@
+﻿  Entropy.cpp
+C:\Users\user\Desktop\Coding\cpp_rep\Entropy\Entropy\Entropy.cpp(28,58): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Coding\cpp_rep\Entropy\Entropy\Entropy.cpp(43,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Coding\cpp_rep\Entropy\Entropy\Entropy.cpp(73,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Coding\cpp_rep\Entropy\Entropy\Entropy.cpp(152,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Entropy.vcxproj -> C:\Users\user\Desktop\Coding\cpp_rep\Entropy\x64\Debug\Entropy.exe
